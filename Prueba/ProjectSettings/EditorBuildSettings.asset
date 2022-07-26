@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Esferoide.unity
+    guid: af3d9f3d6aa611d489162638a480f1f4
   m_configObjects: {}
